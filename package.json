@@ -1,0 +1,26 @@
+{
+  "name": "markdowneditortutorial_node",
+  "version": "1.0.0",
+  "description": "Markdown tutorial in Node based on https://scotch.io/tutorials/building-a-real-time-markdown-viewer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_markdowneditortutorial_node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RebeccaCode/MarkdownEditorTutorial_Node.git"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "Rebecca Haskins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RebeccaCode/MarkdownEditorTutorial_Node/issues"
+  },
+  "homepage": "https://github.com/RebeccaCode/MarkdownEditorTutorial_Node#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
