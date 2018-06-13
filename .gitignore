@@ -9,3 +9,6 @@ robot/log\.html
 robot/output\.xml
 
 robot/report\.html
+
+robot/*screenshot*\.png
+
